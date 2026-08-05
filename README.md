@@ -55,29 +55,28 @@ The dashboard was designed to answer the following business questions:
 
 The dashboard includes several custom DAX measures and calculated columns, including:
 
-- Main Genre Classification
+- Artist Rank
 - Track Count
-- Track Share (%)
-- Average Artist Followers
-- Average Artist Popularity
-- Average Track Popularity
-- Dynamic Top N Parameter
+- Track Share
+- Average Followers
+- Average Popularity
+- Explicit %
 
 ---
 
 ## 📊 Dashboard Pages
 
-### 🏠 Home
+### Home
 Provides an overview of the dashboard and navigation to each analysis page.
 
 ---
 
-### 📖 Project Overview
+### Project Overview
 Introduces the project, business objectives, technical skills demonstrated, dashboard features, and analytical questions addressed throughout the dashboard.
 
 ---
 
-### 🎵 Track Analysis
+### Track Analysis
 Analyses Spotify tracks using KPIs, popularity distribution, explicit content analysis, and popularity trends over time.
 
 **Key Insights**
@@ -87,7 +86,7 @@ Analyses Spotify tracks using KPIs, popularity distribution, explicit content an
 
 ---
 
-### 👨‍🎤 Artist Analysis
+### Artist Analysis
 Examines artist popularity, follower counts, genre distribution, and artist contributions through interactive visuals.
 
 **Key Insights**
@@ -96,7 +95,7 @@ Examines artist popularity, follower counts, genre distribution, and artist cont
 
 ---
 
-### 🔍 Artist Details
+### Artist Details
 Allows users to drill through to individual artist profiles, displaying:
 
 - Top Tracks by Popularity
@@ -106,7 +105,7 @@ Allows users to drill through to individual artist profiles, displaying:
 
 ---
 
-### 💿 Album Analysis
+### Album Analysis
 Explores album characteristics, release trends, popularity across album types, and albums with the largest number of tracks.
 
 **Key Insights**
