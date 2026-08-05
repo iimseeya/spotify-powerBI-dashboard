@@ -13,20 +13,18 @@ This project was created as part of my Business Analytics portfolio to demonstra
 The dashboard was designed to answer the following business questions:
 
 ### Track Analysis
-- Which tracks achieve the highest popularity?
-- How is track popularity distributed across the dataset?
-- What proportion of tracks are explicit versus non-explicit?
+- How is track popularity distributed across Spotify?
+- Do explicit tracks differ from non-explicit tracks in popularity?
 - How has track popularity changed over time?
 
 ### Artist Analysis
 - Does artist follower count correlate with popularity?
 - Which artists contribute the largest share of tracks?
-- Which genres have the highest artist representation?
-- Which artists achieve the highest popularity?
+- Which artists consistently achieve the highest popularity?
 
 ### Album Analysis
 - Which albums contain the largest number of tracks?
-- How does popularity differ across album types?
+- How does popularity differ across albums types?
 - How have album releases evolved over time?
 
 ---
